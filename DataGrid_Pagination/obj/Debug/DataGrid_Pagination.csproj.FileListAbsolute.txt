@@ -1,0 +1,10 @@
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\obj\Debug\DataGrid_Pagination.csprojAssemblyReference.cache
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\obj\Debug\DataGrid_Pagination.Form1.resources
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\obj\Debug\DataGrid_Pagination.Properties.Resources.resources
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\obj\Debug\DataGrid_Pagination.csproj.GenerateResource.cache
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\obj\Debug\DataGrid_Pagination.csproj.CoreCompileInputs.cache
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\bin\Debug\DataGrid_Pagination.exe.config
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\bin\Debug\DataGrid_Pagination.exe
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\bin\Debug\DataGrid_Pagination.pdb
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\obj\Debug\DataGrid_Pagination.exe
+D:\Learn\GitHub\DataGrid_Pagination\DataGrid_Pagination\obj\Debug\DataGrid_Pagination.pdb
